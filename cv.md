@@ -79,10 +79,10 @@ function solution(n){
 
 I have 4 pet-projects using React and fetching server
 
-* [React todo-list][https://github.com/SemyonKushnarenko/react-todo]
-* [React "game of thrones" app][https://github.com/SemyonKushnarenko/react-classes-api]
-* [React redux resto service][https://github.com/SemyonKushnarenko/react-redux]
-* [React "OMDBiD" app][https://github.com/SemyonKushnarenko/test]
+* [React todo-list](https://github.com/SemyonKushnarenko/react-todo)
+* [React "game of thrones" app](https://github.com/SemyonKushnarenko/react-classes-api)
+* [React redux resto service](https://github.com/SemyonKushnarenko/react-redux)
+* [React "OMDBiD" app](https://github.com/SemyonKushnarenko/test)
 
 ## Education
 
@@ -91,7 +91,7 @@ I have 4 pet-projects using React and fetching server
 
 ## English
 
-* [C1 level by efset] [https://www.efset.org/cert/JAbDZm]
+* [C1 level by efset](https://www.efset.org/cert/JAbDZm)
 * Speaking is B1
 
 ## Thanks for attention
