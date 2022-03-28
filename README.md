@@ -1,3 +1,3 @@
 # docs
 
-[https://SemyonKushnarenko.github.io/rsschool-cv/cv]
+[https://SemyonKushnarenko.github.io/rsschool-cv/]
