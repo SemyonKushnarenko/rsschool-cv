@@ -1,1 +1,3 @@
-***Markdown layout***
+# docs
+
+[https://SemyonKushnarenko.github.io/rsschool-cv/cv]
